@@ -1,0 +1,9 @@
+__title__ = 'tfidf_clustering'
+__description__ = 'Main objective of this module is to cluster the collection fo document based on their feature_extraction.'
+__url__ = 'yet to be created'
+__version__ = '0.1'
+__build__ = "yet to be added"
+__author__ = 'Ajaighosh Ramachandran'
+__email__ = 'ajayghoshrr@gmail.com'
+__license__ = 'yet to be added'
+__copyright__ = 'yet to be added'

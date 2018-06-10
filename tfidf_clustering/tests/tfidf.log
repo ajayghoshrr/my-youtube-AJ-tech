@@ -1,0 +1,220 @@
+2018-06-10 13:13:49,202:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path data_set
+2018-06-10 13:13:49,203:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:13:49,203:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:13:49,203:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:13:49,203:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:13:49,203:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:13:49,203:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:13:49,204:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:13:49,206:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:13:49,206:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:13:49,206:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:13:49,206:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:13:49,206:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:19:44,589:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path data_set
+2018-06-10 13:19:44,589:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:19:44,589:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:19:44,589:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:19:44,589:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:19:44,590:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:19:44,590:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:19:44,590:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:19:44,590:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:19:44,590:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:19:44,590:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:19:44,590:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:19:44,591:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:23:06,824:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path data_set
+2018-06-10 13:23:06,825:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:23:06,825:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:23:06,825:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:23:06,825:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:23:06,825:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:23:06,825:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:23:06,826:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:23:06,826:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:23:06,826:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:23:06,826:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:23:06,826:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:23:06,826:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:23:55,525:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path data_set
+2018-06-10 13:23:55,526:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:23:55,526:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:23:55,526:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:23:55,526:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:23:55,527:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:23:55,527:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:23:55,527:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:23:55,527:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:23:55,528:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:23:55,528:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:23:55,528:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:23:55,528:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:24:37,077:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path data_set
+2018-06-10 13:24:37,077:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:24:37,077:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:24:37,078:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:24:37,078:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:24:37,078:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:24:37,078:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:24:37,078:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:24:37,079:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:24:37,079:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:24:37,079:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:24:37,079:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:24:37,079:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:36:31,655:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 13:36:31,656:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:36:31,656:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:36:31,659:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:36:31,659:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:36:31,659:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:36:31,659:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:36:31,660:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:36:31,660:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:36:31,660:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:36:31,660:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:36:31,660:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:36:31,660:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:40:25,075:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 13:40:25,075:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:40:25,075:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:40:25,079:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:40:25,079:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:40:25,079:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:40:25,079:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:40:25,079:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:40:25,079:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:40:25,079:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:40:25,079:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:40:25,079:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:40:25,080:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 13:41:38,809:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path ..\..\datasets\corpus
+2018-06-10 13:41:38,810:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:41:38,810:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:41:38,810:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:41:38,810:tfidf.py:tfidf_matrix:INFO:Inside the sent_removal = True block
+2018-06-10 13:41:38,984:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 13:41:38,985:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 13:41:38,985:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 13:41:38,989:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 13:41:38,989:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 13:41:38,989:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 13:41:38,990:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 13:41:38,990:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 13:41:38,990:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 13:41:38,990:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:41:38,990:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:41:38,990:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 13:41:38,990:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 14:03:05,644:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path ..\..\datasets\corpus
+2018-06-10 14:03:05,644:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:03:05,644:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:03:05,644:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:03:05,830:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 14:03:05,831:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:03:05,831:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:03:05,836:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:03:05,836:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 14:03:05,836:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 14:03:05,836:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 14:03:05,836:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 14:03:05,837:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 14:03:05,837:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:03:05,837:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:03:05,837:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:03:05,837:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 14:07:06,309:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path ..\..\datasets\corpus
+2018-06-10 14:07:06,309:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:07:06,309:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:07:06,309:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:07:06,483:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 14:07:06,483:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:07:06,484:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:07:06,488:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:07:06,488:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 14:07:06,488:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 14:07:06,488:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 14:07:06,488:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 14:07:06,489:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 14:07:06,489:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:07:06,489:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:07:06,489:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:07:06,489:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 14:12:19,341:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path ..\..\datasets\corpus
+2018-06-10 14:12:19,341:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:12:19,341:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:12:19,341:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:12:19,526:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 14:12:19,526:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:12:19,526:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:12:19,533:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:12:19,533:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 14:12:19,534:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 14:12:19,534:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 14:12:19,534:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 14:12:19,534:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 14:12:19,534:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:12:19,534:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:12:19,534:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:12:19,534:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 14:14:44,997:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path ..\..\datasets\corpus
+2018-06-10 14:14:44,997:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:14:44,997:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:14:44,997:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:14:45,173:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 14:14:45,173:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:14:45,173:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:14:45,177:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:14:45,177:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 14:14:45,177:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 14:14:45,177:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 14:14:45,177:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 14:14:45,178:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 14:14:45,178:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:14:45,178:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:14:45,178:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:14:45,178:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 14:16:11,893:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path ..\..\datasets\corpus
+2018-06-10 14:16:11,893:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:16:11,894:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:16:11,894:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:16:12,072:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 14:16:12,072:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 14:16:12,072:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 14:16:12,077:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 14:16:12,077:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 14:16:12,077:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 14:16:12,078:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 14:16:12,078:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 14:16:12,078:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 14:16:12,078:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:16:12,078:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:16:12,078:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 14:16:12,079:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 17:59:09,716:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 17:59:09,716:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 17:59:09,720:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 17:59:09,724:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 17:59:09,724:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 17:59:09,724:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 17:59:09,724:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 17:59:09,724:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 17:59:09,724:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 17:59:09,724:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 17:59:09,724:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 17:59:09,724:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 17:59:09,724:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings
+2018-06-10 18:24:35,482:tfidf.py:tfidf_matrix:INFO:Collected all the paths under corpus path C:\Users\ajaighosh.ramachandr\Desktop\AJ\studies_ml\kaggle\nineleaps\tfidf_clustering\tests\data_set
+2018-06-10 18:24:35,482:tfidf.py:tfidf_matrix:INFO:Converted all the files content into the strings
+2018-06-10 18:24:35,482:tfidf.py:tfidf_matrix:INFO:Cleaned data successfully
+2018-06-10 18:24:35,482:tfidf.py:tfidf_matrix:INFO:Removed all the stopwords from the stopwords file
+2018-06-10 18:24:35,482:tfidf.py:word_dict:INFO:Inside the word count snippet
+2018-06-10 18:24:35,482:tfidf.py:idf_computation:INFO:Word dict created from the universal list
+2018-06-10 18:24:35,482:tfidf.py:idf_computation:INFO:IDF Formulae applied to all the strings
+2018-06-10 18:24:35,482:tfidf.py:tfidf_matrix:INFO:Computed the idf values
+2018-06-10 18:24:35,482:tfidf.py:term_frequency:INFO:Term frequency successfully found
+2018-06-10 18:24:35,482:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 18:24:35,482:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 18:24:35,482:tfidf.py:tf_idf_calculation:INFO:TF-IDF operation successfull
+2018-06-10 18:24:35,482:tfidf.py:tfidf_matrix:INFO:Calculated the term frequency for the strings

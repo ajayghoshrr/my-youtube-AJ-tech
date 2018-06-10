@@ -1,0 +1,83 @@
+﻿Context: 
+This is a coding exercise meant to test your ability to understand and implement basic concepts,
+where you will need to write code to clean textual data, 
+build a tf-idf matrix for any given corpus and 
+perform k-means clustering to cluster all documents for any given corpus. 
+Please read all the points below BEFORE starting the exercise. 
+
+
+
+
+
+Instructions:
+1) Implement well-commented functions with docstrings in python3 to perform the following 
+(see this video for reference: https://www.youtube.com/watch?v=xKaoGeKD43w):
+
+	
+a) Read a text file using the path to the text file as the input parameter.
+	
+b) Remove punctuations, numbers and special characters given a document as input. 
+	
+c) Remove stopwords given a document as the input parameter - a basic list of stopwords is provided, 
+you can use more extensive lists from the internet (please cite the link in your comments if you do).
+	
+d) Create a tf-idf matrix from scratch given a corpus as the input parameter 
+(do not use any pre-existing packages that offer functionality to do this directly). 
+Use this link for reference: https://en.wikipedia.org/wiki/Tf–idf
+	
+e) Perform k-means clustering on the rows of a matrix, given k and 
+the matrix whose rows are to be clustered as input parameters 
+(implement k-means from scratch and do not use any pre-existing packages 
+that offer functionality to do this directly). 
+Use this link for reference: https://en.wikipedia.org/wiki/K-means_clustering
+
+2) 
+Write tests for each of the functions above using the Test Corpus provided - 
+assume each new line is a separate document. 
+PLEASE NOTE THAT THE EXPECTATION IS TO WRITE CODE TESTS - 
+this has NOTHING to do with testing / training as understood in classification / 
+regression / supervised learning contexts. 
+Use this link for reference: http://docs.python-guide.org/en/latest/writing/tests/
+
+
+3) Using the functions written in 
+
+1) above, FOR EACH of the two Main Corpuses provided:
+
+	
+a) Clean each line (therefore making the assumption that each line is a separate document)
+	
+b) Create a tf-idf matrix using the cleaned data as input
+	
+c) Cluster documents using k-means clustering with k=2
+
+
+The expected output is a mapping of document to cluster for EACH of the two input Main Corpuses.
+
+
+4) Each Main Corpus comprises of product reviews from Amazon.com for a pair of products. 
+The reviews for each product in a corpus is separated by three blank lines.
+a) Create a confusion matrix of document to cluster mapping vs. document to product mapping 
+for each of the two corpuses 
+	
+b) Create a short writeup discussing the confusion matrix 
+(the observed similarities and / or discrepancies and potential reasons for them)
+ and if you feel the results can be improved, 
+how this can be achieved. 
+
+
+5) OPTIONAL - Use stemming and n-grams (preexisting packages that offer functionality 
+to do this CAN be used directly) to further clean the data in 
+3) above. If you do this, please also add to your writeup any observed benefits 
+of performing this additional step and the potential reasons behind the improvements 
+/ deterioration in results due to it.
+
+
+
+
+Expected output:
+
+You will need to submit ALL your code(s) and the writeup for 4) / 
+5) above.
+
+

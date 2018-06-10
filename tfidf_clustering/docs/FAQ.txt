@@ -1,0 +1,8 @@
+Q1 - How to install packages from requirement.txt?
+Ans - pip install -r requirements.txt
+Q2 - How to add dependencies in requirement.txt?
+Ans - pip freeze > requirements.txt
+Q3 - How to test the modules?
+Ans - Go to tests folder from command prompt/terminal and type the command: python -m pytest <test_filename--optional> --html=<report.name> --show-progress <any feature - ref pytest.pypi.doc>
+Q4 - How can get instructions about specific Module?
+Ans - Using Python console, Import specific module/class/function and give <module_name/class/func>.__doc__

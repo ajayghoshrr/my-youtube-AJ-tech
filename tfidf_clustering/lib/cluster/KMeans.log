@@ -1,0 +1,41 @@
+2018-06-10 11:52:58,481:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 11:52:58,481:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 11:52:58,481:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:04:00,278:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:04:00,279:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:04:00,279:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:05:06,641:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:05:18,091:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:07:12,116:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:07:12,117:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:07:12,117:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:12:24,771:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:12:24,772:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:12:24,772:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:12:24,772:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:12:24,772:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:15:35,610:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:15:35,611:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:15:35,611:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:15:35,611:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:15:35,611:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:10,818:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:16:10,819:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:16:10,819:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:16:10,819:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:10,819:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:23,079:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:16:23,080:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:16:23,080:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:16:23,080:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:23,080:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:25,572:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:16:25,573:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:16:25,573:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:16:25,573:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:25,573:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:29,933:kmeans.py:__init__:INFO:KMeans values initialized with n_clusters = 2, tolerance = 0.001, epochs = 300
+2018-06-10 12:16:29,934:kmeans.py:fit:INFO:Initialized the centroids
+2018-06-10 12:16:29,934:kmeans.py:fit:INFO:Started Iteration no : 0
+2018-06-10 12:16:29,934:kmeans.py:fit:INFO:Finding the mean of all centroids
+2018-06-10 12:16:29,934:kmeans.py:fit:INFO:Finding the mean of all centroids

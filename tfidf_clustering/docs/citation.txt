@@ -1,0 +1,7 @@
+***STOP WORDS*** : https://sites.google.com/site/kevinbouge/stopwords-lists
+***Reference*** :
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+http://benalexkeen.com/k-means-clustering-in-python/
+https://machinelearningmastery.com/confusion-matrix-machine-learning/
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
